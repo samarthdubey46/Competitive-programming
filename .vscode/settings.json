@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "numbers": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "cmath": "cpp",
+        "barrier": "cpp",
+        "chrono": "cpp",
+        "latch": "cpp",
+        "limits": "cpp",
+        "semaphore": "cpp",
+        "valarray": "cpp",
+        "complex": "cpp",
+        "source_location": "cpp",
+        "bitset": "cpp"
+    }
+}
